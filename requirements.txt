@@ -1,0 +1,4 @@
+flask
+sqlalchemy
+chatterbot
+chatterbot_corpus
